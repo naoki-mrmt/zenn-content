@@ -1,0 +1,23 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://naoki-mrmt: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@github.com/naoki-mrmt/zenn-content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naoki-mrmt/zenn-content/issues"
+  },
+  "homepage": "https://github.com/naoki-mrmt/zenn-content#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.134"
+  }
+}
